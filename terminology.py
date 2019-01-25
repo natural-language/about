@@ -23,8 +23,8 @@ clause = ['construction', 'turn of phrase', 'part of a sentence']
 
 # a set (a sequence) of words, conveying a a complete statement,
 # question, exclamation, or command.
-sentence = []
+sentence = ['opinion']
 
 # the meaning that the party creating a sentence or text is
 # trying to convey to the other party(ies) of the conversation.
-message = []
+message = ['point', 'idea', 'meaning', 'theme', 'substance']
