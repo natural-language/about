@@ -9,7 +9,8 @@ symbol = ['sign', 'emblem', 'token', 'mark', 'symptom']
 
 # the expression in letters of a symbol (which is
 # representing a meaning).
-word = ['lemma', 'heading of an annotation', 'heading of a dictionary entry']
+word = ['name', 'lemma', 'heading of an annotation',
+        'heading of a dictionary entry']
 
 # the ordered sequence of words representing a meaning
 # resulting from a particular combination of meanings
