@@ -21,8 +21,8 @@ phrase = ['expression', 'wording', 'utterance', 'construction']
 # a subject and predicate.
 clause = ['construction', 'turn of phrase', 'part of a sentence']
 
-# a set (a sequence) of words, conveying a statement, question,
-# exclamation, or command.
+# a set (a sequence) of words, conveying a a complete statement,
+# question, exclamation, or command.
 sentence = []
 
 # the meaning that the party creating a sentence or text is
