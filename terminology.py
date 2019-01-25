@@ -7,4 +7,4 @@ Terminology in the form of lists
 sy = ['symbol', 'sign', 'emblem', 'token', 'mark', 'symptom']
 
 # the expression in letters of the symbol representing a meaning
-le = ['lemma', 'heading', 'annotation', 'dictionary entry']
+le = ['lemma', 'heading', 'dictionary entry']
