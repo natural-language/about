@@ -21,10 +21,10 @@ phrase = ['expression', 'wording', 'utterance', 'construction']
 # a subject and predicate.
 clause = ['construction', 'turn of phrase', 'part of a sentence']
 
-# a set (a sequence) of words, conveying a a complete statement,
-# question, exclamation, or command.
-sentence = ['opinion']
+# a set (a sequence) of words, conveying a a complete thought:
+# a statement, a question, an exclamation, or a command.
+sentence = ['way of thinking', 'thought', 'opinion']
 
 # the meaning that the party creating a sentence or text is
 # trying to convey to the other party(ies) of the conversation.
-message = ['point', 'idea', 'meaning', 'theme', 'substance']
+message = ['point', 'idea', 'gist', 'meaning', 'theme', 'substance']
