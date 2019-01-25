@@ -9,4 +9,4 @@ symbol = ['sign', 'emblem', 'token', 'mark', 'symptom']
 
 # the expression in letters of a symbol (which is
 # representing a meaning).
-word = ['lemma', 'heading of annotation', 'heading of dictionary entry']
+word = ['lemma', 'heading of an annotation', 'heading of a dictionary entry']
