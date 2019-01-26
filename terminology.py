@@ -8,11 +8,20 @@ reality = ['thing', 'event', 'motion', 'state', 'process', 'being',
            'mind', 'thought', 'idea', 'will', 'intention', 'machine',
            'world', 'nature', 'universe']
 
+# the results of human perception of reality
+# the particular segmentation of the mental image of reality
+# in action.
+meaning = []
+
 # the representaion of real meanings, ideas
+# an object, quality, or event whose presence or occurrence
+# indicates the probable presence or occurrence of a meaning.
+sign = ['mark', 'token']
+
 # the main variable for symbolic 'equations'
 # symbol is typically a material representation of abstract
 # not an abstraction of a real object
-symbol = ['sign', 'emblem', 'token', 'mark', 'symptom']
+symbol = ['emblem', 'sign', 'token', 'mark', 'symptom']
 
 # the expression in letters of a symbol (which is
 # representing a meaning).
