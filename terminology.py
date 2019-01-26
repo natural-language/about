@@ -8,8 +8,10 @@ reality = ['thing', 'event', 'motion', 'state', 'process', 'being',
            'mind', 'thought', 'idea', 'will', 'intention', 'machine',
            'world', 'nature', 'universe']
 
-# the representaion of real meanings,
+# the representaion of real meanings, ideas
 # the main variable for symbolic 'equations'
+# symbol is typically a material representation of abstract
+# not an abstraction of a real object
 symbol = ['sign', 'emblem', 'token', 'mark', 'symptom']
 
 # the expression in letters of a symbol (which is
