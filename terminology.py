@@ -4,9 +4,9 @@ Terminology in the form of lists
 
 
 # the distinct categories of real meanings.
-reality = ['thing', 'event', 'process', 'being', 'mind', 'thought',
-           'idea', 'will', 'intention', 'machine', 'nature',
-           'world', 'universe']
+reality = ['thing', 'event', 'state', 'process', 'being', 'mind',
+           'thought', 'idea', 'will', 'intention', 'machine',
+           'world', 'nature', 'universe']
 
 # the representaion of real meanings,
 # the main variable for symbolic 'equations'
