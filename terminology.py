@@ -3,7 +3,7 @@ Terminology in the form of lists
 """
 
 
-# the distinct real meanings.
+# the distinct categories of real meanings.
 reality = ['thing', 'event', 'process', 'being', 'mind', 'thought',
            'idea', 'will', 'intention', 'machine', 'nature',
            'world', 'universe']
