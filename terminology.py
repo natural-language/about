@@ -3,7 +3,14 @@ Terminology in the form of lists
 """
 
 
-# the distinct categories of real meanings.
+# the entirety of the existence - singular and indivisible
+reality_by_itself = []
+
+# parts of reality singled out by the human mind by means of
+# perception and understanding. reality-in-itself that has
+# undergone _two_ transformations: through the senses/perceptioni
+# and through the mind/understanding(realisation).
+# understood existence, the distinct categories of meanings.
 reality = ['thing', 'event', 'motion', 'state', 'process', 'being',
            'mind', 'thought', 'idea', 'will', 'intention', 'machine',
            'world', 'nature', 'universe']
